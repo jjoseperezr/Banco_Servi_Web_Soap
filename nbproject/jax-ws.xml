@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jax-ws xmlns="http://www.netbeans.org/ns/jax-ws/1">
+  <services>
+    <service name="solicitudes_ws">
+      <implementation-class>newpackage.solicitudes_ws</implementation-class>
+    </service>
+    <service name="usuarios_ws">
+      <implementation-class>newpackage.usuarios_ws</implementation-class>
+    </service>
+  </services>
+  <clients/>
+</jax-ws>
